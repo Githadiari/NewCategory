@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350263653979",
+    "firebase_url": "https://eiskedua.firebaseio.com",
+    "project_id": "eiskedua",
+    "storage_bucket": "eiskedua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350263653979:android:7ce210f1df2bd96c",
+        "android_client_info": {
+          "package_name": "com.example.windows_10.neweis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350263653979-homtsg6qcvkvvktlbs35jg3p5d83fd6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windows_10.neweis",
+            "certificate_hash": "1a942fc75e14c7e80625d5cf4004ee43368bb602"
+          }
+        },
+        {
+          "client_id": "350263653979-bgsprca1bfsm6p003jcpu1snd8fbpt29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzG8Ma6xd1ULMT72RMXZrJ8qPQYNGiGAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350263653979-bgsprca1bfsm6p003jcpu1snd8fbpt29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
